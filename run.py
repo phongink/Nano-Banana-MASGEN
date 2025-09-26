@@ -24,7 +24,7 @@ PROMPT_FILE_PATH = "prompts.txt"
 # Path to the first character reference image.
 REFERENCE_IMAGE_1_PATH = "character_ref_1.png"
 # Path to the second character reference image.
-REFERENCE_IMAGE_2_PATH = "character_ref_2.jpg"
+REFERENCE_IMAGE_2_PATH = "character_ref_2.png"
 
 # ==============================================================================
 # SECTION 2: MAIN LOGIC - NO CHANGES NEEDED BELOW THIS LINE
