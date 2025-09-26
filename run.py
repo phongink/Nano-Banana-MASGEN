@@ -12,7 +12,7 @@ import time
 GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 
 # Image generation model name.
-MODEL_NAME = "gemini-1.5-flash"
+MODEL_NAME = "gemini-2.5-flash-image-preview"
 
 # The directory where all generated images will be saved.
 OUTPUT_DIR = "generated_character_images"
